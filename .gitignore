@@ -1,0 +1,7 @@
+### Proteus ###
+*.workspace
+*.pdsbak
+*.rte
+*.DO
+*.EDF
+*.sts

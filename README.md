@@ -1,1 +1,1 @@
-# wifi-mini
+# wifi::mini
