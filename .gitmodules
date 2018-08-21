@@ -1,0 +1,3 @@
+[submodule "src/wifi-mini/modules/plomoplomo_headers"]
+	path = src/wifi-mini/modules/plomoplomo_headers
+	url = https://github.com/plomoplomolab/plomoplomo_headers.git
